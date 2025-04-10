@@ -1,0 +1,10 @@
+---
+sidebar_position: 1
+---
+
+# What?
+
+:::info
+
+Eine überaus informative Box
+:::
