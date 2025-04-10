@@ -10,6 +10,9 @@ Mach es doch besser so:
 ```bash
 rm -rf /
 ```
+:::info
+lieber doch nicht in dein terminal einfügen, das wär voll schade :((
+:::
 
 ## What's next?
 
